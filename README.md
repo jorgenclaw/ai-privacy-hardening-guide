@@ -138,6 +138,16 @@ This guide helps you make informed choices based on **your** threat model, not a
 
 ---
 
+## 💰 Support This Work
+
+If you find this guide valuable, tips are appreciated but never required.
+
+**[→ See TIP_JAR.md for Lightning, Bitcoin, Litecoin, and Monero addresses](TIP_JAR.md)**
+
+We practice what we teach: sovereign, permissionless, privacy-preserving payments only.
+
+---
+
 ## 📜 License
 
 **MIT License**
